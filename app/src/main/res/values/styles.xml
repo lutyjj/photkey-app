@@ -1,0 +1,5 @@
+<resources>
+    <style name="PhotKey" parent="Theme.Material3.Dark">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
